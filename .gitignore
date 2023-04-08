@@ -3,4 +3,6 @@ src/*/*.exp
 src/*/*.lib
 src/*/*.obj
 src/*/*/a.out
-
+src/build
+src/CMakeSettings.json
+/.vs

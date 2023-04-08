@@ -1,5 +1,8 @@
 #include <math.h>
 #include <stdio.h>
+#include <malloc.h>
+#include <cuda_runtime.h>
+#include <device_launch_parameters.h>
 
 const double EPSILON = 1.0e-15;
 const double a = 1.23;
